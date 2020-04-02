@@ -1,0 +1,37 @@
+waypoint1	waypoint2	distance_m	duration_s
+Halifax, NS	Montreal, QBC	1242277	43152
+Halifax, NS	Toronto, ONT	1793947	61599
+Chicago	Halifax, NS	2616846	88978
+Halifax, NS	Winnipeg	3499434	130982
+Halifax, NS	Fargo	3279587	122404
+Halifax, NS	Calgary	4763751	174782
+Halifax, NS	Spokane	5127594	182571
+Vancouver, BC	Halifax, NS	5793449	206380
+Toronto, ONT	Montreal, QBC	541582	19217
+Chicago	Montreal, QBC	1364480	46597
+Winnipeg	Montreal, QBC	2269146	89107
+Fargo	Montreal, QBC	2043288	80113
+Calgary	Montreal, QBC	3527153	132396
+Spokane	Montreal, QBC	3890996	140185
+Vancouver, BC	Montreal, QBC	4556851	163995
+Chicago	Toronto, ONT	836680	28725
+Winnipeg	Toronto, ONT	2222602	75528
+Toronto, ONT	Fargo	1867694	62696
+Calgary	Toronto, ONT	3405880	117184
+Toronto, ONT	Spokane	3707522	122607
+Vancouver, BC	Toronto, ONT	4373376	146417
+Chicago	Winnipeg	1388768	47347
+Chicago	Fargo	1033860	34515
+Chicago	Calgary	2572046	89003
+Chicago	Spokane	2873688	94426
+Chicago	Vancouver, BC	3539543	118236
+Winnipeg	Fargo	359126	13325
+Winnipeg	Calgary	1334807	47692
+Winnipeg	Spokane	1799986	67707
+Vancouver, BC	Winnipeg	2319331	86219
+Calgary	Fargo	1545608	55290
+Spokane	Fargo	1847249	60713
+Vancouver, BC	Fargo	2513104	84522
+Calgary	Spokane	680037	27527
+Vancouver, BC	Calgary	972863	39231
+Vancouver, BC	Spokane	667214	24149
